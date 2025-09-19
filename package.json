@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-app-7c91",
+  "version": "1.0.0",
+  "description": "Fullstack web application with Express backend and React frontend, using Neon Postgres and Prisma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.16.2",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.16.2"
+  }
+}
